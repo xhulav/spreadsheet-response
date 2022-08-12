@@ -1,7 +1,7 @@
 {
 	"name": "xhulav/spreadsheet-response",
 	"type": "library",
-	"description": "PHPOffice spreadsheet response for Nette framework",
+	"description": "PHPOffice spreadsheet response for Nette Framework",
 	"keywords": ["spreadsheet", "response", "phpoffice", "nette"],
 	"minimum-stability": "stable",
 	"license": "MIT",
@@ -17,7 +17,7 @@
 		}
 	},
 	"require": {
-		"php": "^7.4",
+		"php": ">=7.4 < 8.2",
 		"nette/application": "^3.0",
 		"nette/http": "^3.0",
 		"phpoffice/phpspreadsheet": "^1.0"
